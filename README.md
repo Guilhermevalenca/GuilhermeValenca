@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/aefdd29e-5af4-4bec-81f8-f4a1b8927b28) <!-- php -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/e7bf569c-6360-4668-90c5-ee177ca94b43) <!-- js -->
-![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/03a0f9bc-fc2b-49f1-8c94-5168d5f46be9) <!-- nodejs -->
+![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/c18f858a-0ba3-456d-be69-4947a51799aa) <!-- nodejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/6dc1f93c-7ec8-4d89-8d0d-5c86ad0ad23a) <!-- vuejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/58a42aca-46a0-4928-bdac-d9faad857d27) <!-- java -->
 
