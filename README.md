@@ -1,7 +1,6 @@
 # Bem-vindo(a)
-<picture>
-    <img alt='' src='https://github-readme-stats.vercel.app/api?username=Guilhermevalenca&show_icons=true&theme=dracula'>
-</picture>
+
+![image](https://github-readme-stats.vercel.app/api?username=Guilhermevalenca&show_icons=true&theme=dracula)
 
 # Tecnologias
 
