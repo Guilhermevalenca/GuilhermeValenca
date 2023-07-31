@@ -1,6 +1,7 @@
 # Bem-vindo(a)
 
 ![image](https://github-readme-stats.vercel.app/api?username=Guilhermevalenca&show_icons=true&theme=dracula)
+![imgage](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermevalenca&layout=compact&langs_count=7&theme=dracula)
 
 # Tecnologias
 
