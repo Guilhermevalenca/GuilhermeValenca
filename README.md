@@ -6,7 +6,8 @@
 # Tecnologias
 
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/aefdd29e-5af4-4bec-81f8-f4a1b8927b28) <!-- php -->
-![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/4162fa2a-4c36-414b-8db9-a73de17d09f6) <!-- nodejs -->
+![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/e7bf569c-6360-4668-90c5-ee177ca94b43) <!-- js -->
+![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/c7318372-448b-42c1-85d4-015e1b00b4d8) <!-- nodejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/6dc1f93c-7ec8-4d89-8d0d-5c86ad0ad23a) <!-- vuejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/58a42aca-46a0-4928-bdac-d9faad857d27) <!-- java -->
 
