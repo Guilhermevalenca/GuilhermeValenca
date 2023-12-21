@@ -10,6 +10,7 @@
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/c18f858a-0ba3-456d-be69-4947a51799aa) <!-- nodejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/6dc1f93c-7ec8-4d89-8d0d-5c86ad0ad23a) <!-- vuejs -->
 ![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/58a42aca-46a0-4928-bdac-d9faad857d27) <!-- java -->
+![image](https://as1.ftcdn.net/v2/jpg/05/83/61/64/1000_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg) <!-- laravel -->
 
 # Ide's
 
