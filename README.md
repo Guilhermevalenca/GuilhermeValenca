@@ -19,6 +19,7 @@
 ![Express JS logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/27b1c864-adcc-4345-823f-c49a0fa5acee) <!-- Express -->
 ![SQL ANCY Logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/031fb5e8-e13b-40a5-95b8-e55d154ee799) <!-- Sql ancy -->
 ![MySQL logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/73aef3cf-027c-4d99-897c-0400c1b42ac0) <!-- MySQL -->
+![Docker logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/8164a5d5-a023-454a-bdeb-08b7e0bc00ac) <!-- Docker -->
 
 
 
@@ -37,6 +38,7 @@
 - Express com NodeJs
 - SQL ANCY
 - MySQL
+- Docker
 
 # Ide's
 
