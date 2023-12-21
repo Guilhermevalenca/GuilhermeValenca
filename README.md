@@ -45,7 +45,7 @@
 ![Sublime text 3](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/df8f1e69-cf6b-471e-9fdd-2fb1d151aed9) <!-- sublime text 3 -->
 ![PHPStorm](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/b1426778-2503-4055-b692-77b8644138f1) <!-- phpStorm -->
 
-- Visual Code
+- Visual Code (Editor de texto)
 - Eclipse
 - Sublime Text 3
 - PHPStorm
