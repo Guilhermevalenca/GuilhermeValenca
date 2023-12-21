@@ -39,6 +39,10 @@
 - SQL ANCY
 - MySQL
 - Docker
+- Bibliotecas sem imagens:
+  - mikecao/flight
+  - phpdotenv
+  - blade template
 
 # Ide's
 
