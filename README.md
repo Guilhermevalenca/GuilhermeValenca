@@ -16,7 +16,11 @@
 ![Bootstrap logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/a8e1d62a-b2d7-4b70-b485-69921699ac0e) <!-- bootstrap -->
 ![jsx_logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/40ccf3bc-f55d-4253-97c8-30f83f103fa3) <!-- jsx -->
 ![socket_io_logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/cecdd3a1-89d7-47fd-8a5c-49a5abbabb46) <!-- socket io -->
-![image](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/27b1c864-adcc-4345-823f-c49a0fa5acee)
+![Express JS logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/27b1c864-adcc-4345-823f-c49a0fa5acee) <!-- Express -->
+![SQL ANCY Logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/031fb5e8-e13b-40a5-95b8-e55d154ee799) <!-- Sql ancy -->
+![MySQL logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/73aef3cf-027c-4d99-897c-0400c1b42ac0) <!-- MySQL -->
+
+
 
 
 - PHP
@@ -31,6 +35,8 @@
 - JSX
 - Socket.io
 - Express com NodeJs
+- SQL ANCY
+- MySQL
 
 # Ide's
 
