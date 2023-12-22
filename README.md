@@ -36,7 +36,7 @@
 - JSX
 - Socket.io
 - Express com NodeJs
-- SQL ANCY
+- SQL ANSY
 - MySQL
 - Docker
 - Bibliotecas sem imagens:
