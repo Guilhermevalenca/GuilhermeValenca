@@ -20,7 +20,7 @@
 ![SQL ANCY Logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/031fb5e8-e13b-40a5-95b8-e55d154ee799) <!-- Sql ancy -->
 ![MySQL logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/73aef3cf-027c-4d99-897c-0400c1b42ac0) <!-- MySQL -->
 ![Docker logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/8164a5d5-a023-454a-bdeb-08b7e0bc00ac) <!-- Docker -->
-![Angular](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/932d4ee2-7ceb-4937-b7d7-44bd4e38ad18) <!-- Angular -->
+![Angular](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/5b68c211-0019-499c-920d-0c6deed9fe0c) <!-- Angular -->
 
 - PHP
 - JavaScript
