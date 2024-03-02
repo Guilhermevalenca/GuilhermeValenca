@@ -68,3 +68,9 @@
 <!-- instagram -->
 <a href='https://www.instagram.com/guilherme_0601/'><img src='https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/0e03b914-2e19-44d5-831f-103308692cce' alt=''></a>
 </div>
+
+# Contatos:
+
+## Email: guilherm3vrp@gmail.com
+## Telefone: (81) 99413-9948
+## Whatsapp: (81) 99413-9948
