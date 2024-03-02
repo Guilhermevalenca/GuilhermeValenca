@@ -22,6 +22,8 @@
 ![Docker logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/8164a5d5-a023-454a-bdeb-08b7e0bc00ac) <!-- Docker -->
 ![Angular](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/5b68c211-0019-499c-920d-0c6deed9fe0c) <!-- Angular -->
 
+
+
 - PHP
 - JavaScript
 - TypeScript
@@ -71,6 +73,6 @@
 
 # Contatos:
 
-## Email: guilherm3vrp@gmail.com
-## Telefone: (81) 99413-9948
-## Whatsapp: (81) 99413-9948
+### Email: guilherm3vrp@gmail.com
+### Telefone: (81) 99413-9948
+### Whatsapp: (81) 99413-9948
