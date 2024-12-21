@@ -27,9 +27,9 @@
 - PHP
 - JavaScript
 - TypeScript
-- NodeJS
-- VueJS
-- VueJSX
+- Node
+- React
+- Vue
 - Java
 - Laravel
 - Axios
@@ -42,6 +42,11 @@
 - MySQL
 - Docker
 - Angular
+- tailwindCSS
+- Nest
+- Next
+- Nuxt
+- Quasar
 
 # Ide's
 
