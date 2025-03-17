@@ -22,32 +22,6 @@
 ![Docker logo](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/8164a5d5-a023-454a-bdeb-08b7e0bc00ac) <!-- Docker -->
 ![Angular](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/5b68c211-0019-499c-920d-0c6deed9fe0c) <!-- Angular -->
 
-
-
-- PHP
-- JavaScript
-- TypeScript
-- Node
-- React
-- Vue
-- Java
-- Laravel
-- Axios
-- Vuetify
-- Bootstrap
-- React
-- Socket.io
-- Express com NodeJs
-- SQL ANSY
-- MySQL
-- Docker
-- Angular
-- tailwindCSS
-- Nest
-- Next
-- Nuxt
-- Quasar
-
 # Ide's
 
 ![VsCode](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/79419871-6fec-4a20-8105-9fb30bef7625) <!-- vscode -->
@@ -55,17 +29,22 @@
 ![Sublime text 3](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/df8f1e69-cf6b-471e-9fdd-2fb1d151aed9) <!-- sublime text 3 -->
 ![PHPStorm](https://github.com/Guilhermevalenca/GuilhermeValenca/assets/56165820/b1426778-2503-4055-b692-77b8644138f1) <!-- phpStorm -->
 
-- Visual Code (Editor de texto)
-- Eclipse
-- Sublime Text 3
-- PHPStorm
-
 # Projetos
 
 1. IPI (Informatica para internet)
 
   - <a href='https://github.com/Guilhermevalenca/Gearing'> Gearing </a> <p>Projeto do 2° periodo, focado no desenvolvimento intelectual dos estudantes</p>
   - <a href='https://github.com/Guilhermevalenca/SAEIFPE'> SAEIFPE </a> <p>Projeto do 3° perido, Sistema de acompanhamento de egressos. Demanda da propria instituição federal e experencia com cliente real!</p>
+
+2. TSI (Tecnologia de sistemas para internet)
+  - <a href="https://github.com/Guilhermevalenca/brazilian-sign-language-project"> Brazilian Sign Language Project</a> <p>Projeto para o IFPE Campus Igarassu, onde visa transcrever todos os assuntos e conhecimentos dos cursos da instituição em libras, para auxiliar pessoas com deficiencia</p>
+
+4. bootcamp com TASCOM
+  - <a href="https://github.com/fabiomrtins/database-project">Database project</a> <p>Projeto desenvolido para avaliar habilidades em banco de dados</p>
+  - <a href="https://github.com/Guilhermevalenca/desafio-back-end-postgres"> desafio back end postgres </a> <p>Construir todo list usando react, express e postgres</p>
+
+4. Projetos pessoais
+  - <a href="https://github.com/Guilhermevalenca/upos">UPOS </a> <p>Desenvolvendo minha propria lib de socket, onde a api pode setar objetos e os clients podem pegar esses objetos e atualiza-los de forma simples</p>
 
 # Redes sociais
 
@@ -79,5 +58,5 @@
 # Contatos:
 
 ### Email: guilherm3vrp@gmail.com
-### Telefone: (81) 99413-9948
-### Whatsapp: (81) 99413-9948
+### Telefone: (81) 98967-1155
+### Whatsapp: (81) 98967-1155
